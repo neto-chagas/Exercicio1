@@ -1,0 +1,15 @@
+{
+  "name": "tabuada-app",
+  "version": "1.0.0",
+  "description": "Aplicativo web de tabuada em Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neto Chagas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
